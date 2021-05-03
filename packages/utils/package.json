@@ -1,0 +1,19 @@
+{
+  "name": "@huachen-cli/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "huachen.hy@antgroup.com <huachen.hy@antgroup.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
