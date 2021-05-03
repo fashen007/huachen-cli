@@ -1,6 +1,6 @@
 {
   "name": "@huachen-cli/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "huachen.hy@antgroup.com <huachen.hy@antgroup.com>",
   "homepage": "",
@@ -15,5 +15,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "d7dd5a56c70aced2c5a1ea0a9d95e8ea77abdf17",
+  "publishConfig": {
+    "access": "public"
   }
 }
