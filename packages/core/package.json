@@ -1,6 +1,6 @@
 {
   "name": "@huachen-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "huachen.hy@antgroup.com <huachen.hy@antgroup.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@huachen-cli/utils": "^1.0.1"
+    "@huachen-cli/utils": "^1.0.2"
   }
 }
