@@ -14,7 +14,9 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "preinstall": "console.log('我测试一下什么时候执行preinstall')",
+    "postinstall": "console.log('我测试一下postInstall在什么时候执行')"
   },
   "dependencies": {
     "@huachen-cli/utils": "^1.0.2"
